@@ -1,0 +1,19 @@
+# Python Dependencies for Neural Network Fundamentals
+
+# Core Scientific Computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipython>=7.25.0
+
+# Data Processing
+scipy>=1.7.0
